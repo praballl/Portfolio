@@ -19,7 +19,7 @@ const Projects = () => {
         {title : "Portfolio",
         imgUrl : portfolioImg ,
         sourceCode : 'https://github.com/praballl/Portfolio.git',
-        liveLink : ''
+        liveLink : 'https://splendorous-faloodeh-0d2b7d.netlify.app/'
         },
         {title : "Daily Journal",
         imgUrl : dailyJournalImg ,
